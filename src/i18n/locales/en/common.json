@@ -1,0 +1,45 @@
+{
+  "app": {
+    "name": "DBAAS Chat",
+    "description": "AI-powered chat interface"
+  },
+  "actions": {
+    "send": "Send",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "copy": "Copy",
+    "close": "Close",
+    "open": "Open",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "confirm": "Confirm",
+    "dismiss": "Dismiss"
+  },
+  "messages": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "noData": "No data available",
+    "tryAgain": "Try again",
+    "retry": "Retry"
+  },
+  "navigation": {
+    "chat": "Chat",
+    "settings": "Settings",
+    "home": "Home",
+    "profile": "Profile"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "auto": "Auto"
+  },
+  "language": {
+    "english": "English",
+    "hebrew": "Hebrew",
+    "select": "Select Language"
+  }
+}

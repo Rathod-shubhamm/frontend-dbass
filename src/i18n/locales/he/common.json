@@ -1,0 +1,45 @@
+{
+  "app": {
+    "name": "צ'אט DBAAS",
+    "description": "ממשק צ'אט מונע בינה מלאכותית"
+  },
+  "actions": {
+    "send": "שלח",
+    "cancel": "בטל",
+    "save": "שמור",
+    "delete": "מחק",
+    "edit": "ערוך",
+    "copy": "העתק",
+    "close": "סגור",
+    "open": "פתח",
+    "back": "חזור",
+    "next": "הבא",
+    "previous": "הקודם",
+    "confirm": "אשר",
+    "dismiss": "בטל"
+  },
+  "messages": {
+    "loading": "טוען...",
+    "error": "אירעה שגיאה",
+    "success": "הצלחה",
+    "noData": "אין נתונים זמינים",
+    "tryAgain": "נסה שוב",
+    "retry": "נסה שוב"
+  },
+  "navigation": {
+    "chat": "צ'אט",
+    "settings": "הגדרות",
+    "home": "בית",
+    "profile": "פרופיל"
+  },
+  "theme": {
+    "light": "בהיר",
+    "dark": "כהה",
+    "auto": "אוטומטי"
+  },
+  "language": {
+    "english": "אנגלית",
+    "hebrew": "עברית",
+    "select": "בחר שפה"
+  }
+}

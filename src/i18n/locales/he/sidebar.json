@@ -1,0 +1,27 @@
+{
+  "title": "שיחות",
+  "search": "חפש שיחות...",
+  "new": "שיחה חדשה",
+  "empty": "אין שיחות עדיין",
+  "emptyDescription": "התחל שיחה חדשה כדי להתחיל לצ'אט",
+  "count": "{{count}} שיחה",
+  "count_plural": "{{count}} שיחות",
+  "actions": {
+    "delete": "מחק שיחה",
+    "rename": "שנה שם שיחה",
+    "duplicate": "שכפל שיחה",
+    "export": "ייצא שיחה"
+  },
+  "filters": {
+    "all": "הכל",
+    "recent": "אחרונות",
+    "favorites": "מועדפות",
+    "archived": "בארכיון"
+  },
+  "sort": {
+    "newest": "החדשות קודם",
+    "oldest": "הישנות קודם",
+    "alphabetical": "א-ב",
+    "lastMessage": "הודעה אחרונה"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Conversations",
+  "search": "Search conversations...",
+  "new": "New conversation",
+  "empty": "No conversations yet",
+  "emptyDescription": "Start a new conversation to begin chatting",
+  "count": "{{count}} conversation",
+  "count_plural": "{{count}} conversations",
+  "actions": {
+    "delete": "Delete conversation",
+    "rename": "Rename conversation",
+    "duplicate": "Duplicate conversation",
+    "export": "Export conversation"
+  },
+  "filters": {
+    "all": "All",
+    "recent": "Recent",
+    "favorites": "Favorites",
+    "archived": "Archived"
+  },
+  "sort": {
+    "newest": "Newest first",
+    "oldest": "Oldest first",
+    "alphabetical": "A-Z",
+    "lastMessage": "Last message"
+  }
+}

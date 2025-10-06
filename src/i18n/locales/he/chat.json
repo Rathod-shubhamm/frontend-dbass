@@ -1,0 +1,48 @@
+{
+  "input": {
+    "placeholder": "הקלד את ההודעה שלך...",
+    "send": "שלח הודעה",
+    "typing": "בינה מלאכותית מקלידה...",
+    "enterToSend": "לחץ Enter לשליחה, Shift+Enter לשורה חדשה"
+  },
+  "modes": {
+    "normal": "רגיל",
+    "deepthink": "חשיבה עמוקה",
+    "research": "מחקר ממושך",
+    "normalDescription": "מצב צ'אט סטנדרטי",
+    "deepthinkDescription": "תגובות יותר מחשבות",
+    "researchDescription": "מצב מחקר מקיף"
+  },
+  "messages": {
+    "user": "אתה",
+    "assistant": "עוזר בינה מלאכותית",
+    "copy": "העתק",
+    "regenerate": "צור מחדש",
+    "timestamp": "עכשיו"
+  },
+  "conversation": {
+    "new": "שיחה חדשה",
+    "title": "שיחה",
+    "empty": "אין שיחות עדיין",
+    "emptyDescription": "התחל שיחה חדשה כדי להתחיל לצ'אט",
+    "loading": "טוען שיחה...",
+    "error": "נכשל בטעינת השיחה",
+    "deleted": "השיחה נמחקה",
+    "saved": "השיחה נשמרה"
+  },
+  "sidebar": {
+    "title": "שיחות",
+    "search": "חפש שיחות...",
+    "new": "שיחה חדשה",
+    "empty": "אין שיחות",
+    "count": "{{count}} שיחה",
+    "count_plural": "{{count}} שיחות"
+  },
+  "errors": {
+    "sendFailed": "נכשל בשליחת ההודעה",
+    "loadFailed": "נכשל בטעינת השיחות",
+    "deleteFailed": "נכשל במחיקת השיחה",
+    "networkError": "שגיאת רשת. אנא בדוק את החיבור שלך.",
+    "serverError": "שגיאת שרת. אנא נסה שוב מאוחר יותר."
+  }
+}
